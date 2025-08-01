@@ -43,7 +43,6 @@ h1 {
 
 .section {
     margin-bottom: 30px;
-    /* Linha cinza removida */
     padding-bottom: 0px;
 }
 
@@ -53,8 +52,8 @@ h1 {
 }
 
 h2 {
-    ccolor: #34495e;
-    /* Linha azul removida */
+    color: #34495e;
+    border-bottom: 2px solid #3498db;
     padding-bottom: 5px;
     margin-bottom: 15px;
 }
